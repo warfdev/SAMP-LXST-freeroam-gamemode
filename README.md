@@ -1,2 +1,2 @@
-## SAMP-LXST-freeroam-gamemode
+## LXST-FR Gamemode
 - soon

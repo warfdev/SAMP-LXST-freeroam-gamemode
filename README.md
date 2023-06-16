@@ -8,6 +8,7 @@
 - araç spawn ( /v )
 - silah ( /silah )
 - gamemode'a özel admin ( `./filterscripts/lxst_admin.pwn` ) script ( yazımı yeni olduğu için yetkilerin komutları tam değil.Ayrıca script compile edilmedi, siz edin. )
+- dialog'lu giriş/kayıt sistemi ( dini db )
 - ve dahası
 
 # Discord - lost#3232 <3

@@ -1,0 +1,294 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:00:29] 
+[08:00:29] Server Plugins
+[08:00:29] --------------
+[08:00:29]  Loaded 0 plugins.
+
+[08:00:29] 
+[08:00:29] Filterscripts
+[08:00:29] ---------------
+[08:00:29]   Loading filterscript 'base.amx'...
+[08:00:29] 
+--Base FS loaded.
+
+[08:00:29]   Loading filterscript 'gl_actions.amx'...
+[08:00:29]   Loading filterscript 'gl_property.amx'...
+[08:00:29] 
+-----------------------------------
+[08:00:29] Grand Larceny Property Filterscript		
+[08:00:29] -----------------------------------
+
+[08:00:29]   Loading filterscript 'gl_realtime.amx'...
+[08:00:29]   Loaded 4 filterscripts.
+
+[08:00:29] Loaded 3 vehicles from: vehicles/trains.txt
+[08:00:29] Loaded 3 vehicles from: vehicles/pilots.txt
+[08:00:29] Loaded 15 vehicles from: vehicles/lv_law.txt
+[08:00:29] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[08:00:29] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[08:00:29] Loaded 38 vehicles from: vehicles/sf_law.txt
+[08:00:29] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[08:00:29] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[08:00:29] Loaded 24 vehicles from: vehicles/ls_law.txt
+[08:00:29] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[08:00:29] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[08:00:29] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[08:00:29] Loaded 71 vehicles from: vehicles/whetstone.txt
+[08:00:29] Loaded 168 vehicles from: vehicles/bone.txt
+[08:00:29] Loaded 61 vehicles from: vehicles/flint.txt
+[08:00:29] Loaded 96 vehicles from: vehicles/tierra.txt
+[08:00:29] Loaded 96 vehicles from: vehicles/red_county.txt
+[08:00:29] Total vehicles from files: 1781
+[08:00:29] Reading File: blank
+[08:00:29] Reading File: properties/houses.txt
+[08:00:29] Reading File: properties/businesses.txt
+[08:00:29] Reading File: properties/banks.txt
+[08:00:29] Reading File: properties/police.txt
+[08:00:29] 
+---------------------------------------
+[08:00:29] Running Grand Larceny - by the SA-MP team
+
+[08:00:29] ---------------------------------------
+
+[08:00:29] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:05:19] 
+[08:05:19] Server Plugins
+[08:05:19] --------------
+[08:05:19]  Loaded 0 plugins.
+
+[08:05:19] I couldn't load any gamemode scripts. Please verify your server.cfg
+[08:05:19] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:05:23] 
+[08:05:23] Server Plugins
+[08:05:23] --------------
+[08:05:23]  Loaded 0 plugins.
+
+[08:05:23] I couldn't load any gamemode scripts. Please verify your server.cfg
+[08:05:23] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:06:17] 
+[08:06:17] Server Plugins
+[08:06:17] --------------
+[08:06:17]  Loaded 0 plugins.
+
+[08:06:17] 
+[08:06:17] Filterscripts
+[08:06:17] ---------------
+[08:06:17]   Loading filterscript 'base.amx'...
+[08:06:17] 
+--Base FS loaded.
+
+[08:06:17]   Loading filterscript 'gl_actions.amx'...
+[08:06:17]   Loading filterscript 'gl_property.amx'...
+[08:06:17] 
+-----------------------------------
+[08:06:17] Grand Larceny Property Filterscript		
+[08:06:17] -----------------------------------
+
+[08:06:17]   Loading filterscript 'gl_realtime.amx'...
+[08:06:17]   Loading filterscript 'admin.amx'...
+[08:06:17] 
+________________________________________
+[08:06:17] ________________________________________
+[08:06:17]            LAdmin Yukleniyor...            
+[08:06:17] ________________________________________
+[08:06:17] 
+
+ > UYARI: Komut Dosyalarinda Klasor Eksik
+
+[08:06:17]   Loaded 5 filterscripts.
+
+[08:06:17] Reading File: blank
+[08:06:17] Reading File: properties/houses.txt
+[08:06:17] Reading File: properties/businesses.txt
+[08:06:17] Reading File: properties/banks.txt
+[08:06:17] Reading File: properties/police.txt
+[08:06:17] 
+--------------------------------
+[08:06:17] LXST Freeroam Started
+[08:06:17] --------------------------------
+
+[08:06:17] Number of vehicle models: 0
+[08:06:20] 
+
+>		WARNING:
+
+[08:06:20]  The  ladmin  folder is missing from scriptfiles
+[08:06:20] 
+ Please Create This Folder And Reload the Filterscript
+
+
+[08:07:02] [connection] 188.58.126.186:28307 requests connection cookie.
+[08:07:02] [connection] incoming connection: 188.58.126.186:28307 id: 0
+[08:07:02] [join] losthe has joined the server (0:188.58.126.186)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:07:19] 
+[08:07:19] Server Plugins
+[08:07:19] --------------
+[08:07:19]  Loaded 0 plugins.
+
+[08:07:19] 
+[08:07:19] Filterscripts
+[08:07:19] ---------------
+[08:07:19]   Loading filterscript 'base.amx'...
+[08:07:19] 
+--Base FS loaded.
+
+[08:07:19]   Loading filterscript 'gl_actions.amx'...
+[08:07:19]   Loading filterscript 'gl_property.amx'...
+[08:07:19] 
+-----------------------------------
+[08:07:19] Grand Larceny Property Filterscript		
+[08:07:19] -----------------------------------
+
+[08:07:19]   Loading filterscript 'gl_realtime.amx'...
+[08:07:19]   Loading filterscript 'admin.amx'...
+[08:07:19] 
+________________________________________
+[08:07:19] ________________________________________
+[08:07:19]            LAdmin Yukleniyor...            
+[08:07:19] ________________________________________
+[08:07:19] 
+
+ > UYARI: Komut Dosyalarinda Klasor Eksik
+
+[08:07:19]   Loaded 5 filterscripts.
+
+[08:07:19] Reading File: blank
+[08:07:19] Reading File: properties/houses.txt
+[08:07:19] Reading File: properties/businesses.txt
+[08:07:19] Reading File: properties/banks.txt
+[08:07:19] Reading File: properties/police.txt
+[08:07:19] 
+--------------------------------
+[08:07:19] LXST Freeroam Started
+[08:07:19] --------------------------------
+
+[08:07:19] Number of vehicle models: 0
+[08:07:22] 
+
+>		WARNING:
+
+[08:07:22]  The  ladmin  folder is missing from scriptfiles
+[08:07:22] 
+ Please Create This Folder And Reload the Filterscript
+
+
+[08:07:29] [connection] 188.58.126.186:28943 requests connection cookie.
+[08:07:29] [connection] incoming connection: 188.58.126.186:28943 id: 0
+[08:07:30] [join] losthe has joined the server (0:188.58.126.186)
+[08:07:33] [chat] [losthe]: a
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:08:47] 
+[08:08:47] Server Plugins
+[08:08:47] --------------
+[08:08:47]  Loaded 0 plugins.
+
+[08:08:47] 
+[08:08:47] Filterscripts
+[08:08:47] ---------------
+[08:08:47]   Loading filterscript 'base.amx'...
+[08:08:47] 
+--Base FS loaded.
+
+[08:08:47]   Loading filterscript 'gl_actions.amx'...
+[08:08:47]   Loading filterscript 'gl_property.amx'...
+[08:08:47] 
+-----------------------------------
+[08:08:47] Grand Larceny Property Filterscript		
+[08:08:47] -----------------------------------
+
+[08:08:47]   Loading filterscript 'gl_realtime.amx'...
+[08:08:47]   Loading filterscript 'admin.amx'...
+[08:08:47] 
+________________________________________
+[08:08:47] ________________________________________
+[08:08:47]            LAdmin Yukleniyor...            
+[08:08:47] ________________________________________
+[08:08:47] 
+ >Configuration File Successfully Created
+[08:08:47] 
+ -Configuration Settings Loaded
+[08:08:47] ________________________________________
+[08:08:47]            LAdmin Version 4.0           
+[08:08:47]                 Loaded                  
+[08:08:47] ________________________________________
+[08:08:47]      Date: 1/6/2023  Time: 8:8 :47   
+[08:08:47] ________________________________________
+[08:08:47] ________________________________________
+
+[08:08:47]   Loaded 5 filterscripts.
+
+[08:08:47] Reading File: blank
+[08:08:47] Reading File: properties/houses.txt
+[08:08:47] Reading File: properties/businesses.txt
+[08:08:47] Reading File: properties/banks.txt
+[08:08:47] Reading File: properties/police.txt
+[08:08:47] 
+--------------------------------
+[08:08:47] LXST Freeroam Started
+[08:08:47] --------------------------------
+
+[08:08:47] Number of vehicle models: 0
+[08:09:10] [connection] 188.58.126.186:28421 requests connection cookie.
+[08:09:10] [connection] incoming connection: 188.58.126.186:28421 id: 0
+[08:09:11] [join] losthe has joined the server (0:188.58.126.186)
+[08:09:17] [chat] [losthe]: a
+[08:09:46] [part] losthe has left the server (0:0)
+[08:10:22] [connection] 188.58.126.186:27774 requests connection cookie.
+[08:10:22] [connection] incoming connection: 188.58.126.186:27774 id: 0
+[08:10:23] [join] losthe has joined the server (0:188.58.126.186)
+[08:10:32] [chat] [losthe]: a
+[08:12:49] [death] losthe died 255
+[08:14:37] [death] losthe died 255
+[08:15:26] [part] losthe has left the server (0:1)
